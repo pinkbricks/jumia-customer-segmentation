@@ -1,9 +1,9 @@
 # Jumia Customer Segmentation Project — Team Roles & Task Breakdown
 
-**Client/Stakeholder:** Mr. Kaloki Joel Nzau, Jumia
-**Project Type:** Unsupervised Machine Learning — Customer Segmentation
-**Framework:** CRISP-DM (Cross-Industry Standard Process for Data Mining)
-**Dataset:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online%2Bretail)
+**Client/Stakeholder:** Mr. Kaloki Joel Nzau, Jumia <br>
+**Project Type:** Unsupervised Machine Learning — Customer Segmentation <br>
+**Framework:** CRISP-DM (Cross-Industry Standard Process for Data Mining)<br>
+**Dataset:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online%2Bretail) <br>
 **Team Size:** 6
 
 
