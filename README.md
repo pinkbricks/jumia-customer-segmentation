@@ -5,11 +5,7 @@
 **Framework:** CRISP-DM (Cross-Industry Standard Process for Data Mining)
 **Dataset:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online%2Bretail)
 **Team Size:** 6
-**Suggested Repository Name:** `jumia-customer-segmentation-crispdm`
 
-> Suggested repo description: *"CRISP-DM based customer segmentation project for Jumia using the UCI Online Retail dataset — RFM analysis, clustering, and actionable marketing recommendations."*
-
----
 
 ## 1. Project Objective
 
